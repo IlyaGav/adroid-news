@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="login_hint">Логин или email</string>
+    <string name="password">Пароль</string>
+    <string name="login_img_desc">TODO</string>
+    <string name="sign_in">Войти</string>
+    <string name="invalid_login_or_password">Неверный логин или пароль</string>
+    <string name="spinner">Спиннер</string>
+    <string name="todo">TODO</string>
+    <string name="item_title">TextView</string>
+    <string name="item_description">TextView</string>
+    <string name="country_name">Страна:</string>
+    <string name="title_activity_test">TestActivity</string>
+
+    <string-array name="countries">
+        <item>ru</item>
+        <item>ar</item>
+        <item>cn</item>
+        <item>cu</item>
+        <item>de</item>
+        <item>in</item>
+        <item>id</item>
+        <item>eg</item>
+    </string-array>
+</resources>
